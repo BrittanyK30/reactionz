@@ -1,0 +1,25 @@
+{
+  "name": "reactionz",
+  "version": "1.0.0",
+  "description": "\"React Boilerplate\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\","
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrittanyK30/reactionz.git"
+  },
+  "keywords": [
+    "[",
+    "\"Node\"",
+    "\"React\"",
+    "]"
+  ],
+  "author": "\"BrittanyK30\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrittanyK30/reactionz/issues"
+  },
+  "homepage": "https://github.com/BrittanyK30/reactionz#readme"
+}
